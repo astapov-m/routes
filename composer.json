@@ -1,0 +1,11 @@
+{
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "require": {
+        "mjaschen/phpgeo": "4.0",
+        "hflabs/dadata": "^22.3"
+    }
+}
